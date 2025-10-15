@@ -10,10 +10,10 @@ As I continue my studies, I aim to engage in research that integrates artificial
 
 ## 🧠 Technical Interests
 
-- 🧩 Reinforcement Learning & AI for games  
-- 🕹️ Game simulation environments (custom Gym APIs)  
-- 🧠 Procedural generation & intelligent agents  
-- ⚙️ Systems design, Python, and C# (Unity)
+- Artificial Intelligence and Machine Learning
+- Data Science
+- Applied AI Research
+- Simulation Design
 
 ---
 
@@ -24,7 +24,7 @@ As I continue my studies, I aim to engage in research that integrates artificial
 | **Programming** | Python, C#, Java |
 | **AI / ML** | Stable-Baselines3, MaskablePPO, TensorFlow |
 | **Game Dev** | PyGame, Unity, OpenAI Gym |
-| **Other Tools** | Git, Socket Programming, JSON, CSV, Jupyter |
+| **Other Tools** | Git, Socket Programming, CSV, Jupyter |
 
 ---
 
