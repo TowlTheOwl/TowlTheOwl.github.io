@@ -1,4 +1,4 @@
-# **TowlTheOwl**
+# **Henry (Hyeoncheol) Yang**
 
 I am a student at the University of Washington majoring in Computer Science with an interest in applying artificial intelligence and machine learning to address real-world challenges in healthcare.
 
